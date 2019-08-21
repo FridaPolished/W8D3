@@ -1,0 +1,8 @@
+/* PUT FLUID GRID CODE HERE */
+
+.grid < aside{
+    display: grid;
+    float: left;
+    width: fit-content;
+ 
+}
